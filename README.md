@@ -16,4 +16,4 @@ This project aims to provide a detailed analysis of Hyundai’s stock performanc
 
 <h2>File Access</h2>
 
-- <b>Please click the file about to view the project</b>
+- <b>Please click the EXCEL file above to view the project</b>
